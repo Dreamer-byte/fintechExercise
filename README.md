@@ -127,20 +127,3 @@ public static List<string> ProcessAndDetectFraud(
 ---
 
 ✉️ *Proyecto desarrollado como práctica de preparación para entrevistas técnicas C# en el sector Fintech.*
-
-```
-
----
-
-### Tips adicionales para tu repositorio:
-1. **Nombre del repositorio sugerido:** `fintech-transaction-evaluator` o `csharp-fraud-detection-challenge`.
-2. **Añade `Topics` en GitHub:** Agrega etiquetas como `csharp`, `dotnet`, `fintech`, `linq`, `clean-code`, `algorithms`. Esto mejora la visibilidad de tu perfil.
-
-<ElicitationsGroup message="¿Te gusta esta estructura para tu README o prefieres agregarle algo más?">
-
-  <Elicitation label="¿Cómo puedo subir este código a GitHub paso a paso usando Git?" query="Dame los comandos de consola Git paso a paso para crear un repositorio local, hacer commit y subirlo a GitHub desde cero."/>
-
-  <Elicitation label="Agregar pruebas unitarias (xUnit) al repositorio para hacerlo más pro" query="Muéstrame cómo estructurar pruebas unitarias con xUnit para este ejercicio de transacciones y así subirlas también al repositorio."/>
-</ElicitationsGroup>
-
-```
