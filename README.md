@@ -1,4 +1,4 @@
-```markdown
+
 # 💳 Real-Time Transaction & Fraud Detector (C# / .NET)
 
 ¡Hola! 👋 Bienvenido a este repositorio. Este proyecto es una solución a un reto técnico típico para posiciones de desarrollo **C# en el sector Fintech**. 
